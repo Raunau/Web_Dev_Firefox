@@ -1,0 +1,48 @@
+body{
+    background-color: aquamarine;
+    margin: 20px;
+}
+
+
+p{
+    font-size: 18px;
+    font-family: AngsanaUPC;
+}
+table, th, td{
+    border: blue solid 2px;
+    border-collapse: collapse;
+}
+th{
+    color: chocolate;
+}
+td{
+    color: teal;
+}
+
+h1{
+    color: blueviolet;
+}
+.flowers{
+    color: white;
+    background: red;
+    border: 12px dotted black;
+    text-align: center;
+    margin: 20px;
+}
+.fruits{
+    background: yellowgreen;
+    text-align: center;
+    padding: 5px;
+    margin: 20px;
+    border: blueviolet solid;
+}
+#matunda{
+    color: green;
+    border: solid blue 2px;
+    background: aquamarine;
+    text-align: center;
+    font-size: 20px;
+    font-family: AngsanaUPC;
+    padding: 5px;
+    margin: 20px;
+}
